@@ -3,6 +3,7 @@ package com.weather.andriod;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+//main interface
 public class MainActivity extends AppCompatActivity {
 
     @Override
